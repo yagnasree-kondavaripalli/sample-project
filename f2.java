@@ -1,3 +1,3 @@
 public class f2 {
-    dcl
+    dcl btm branch
 }

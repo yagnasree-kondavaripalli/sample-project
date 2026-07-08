@@ -1,2 +1,2 @@
 hello  have 
-  prepared the project
+  prepared the project learning phase of git
